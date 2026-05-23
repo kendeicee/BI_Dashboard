@@ -1,3 +1,5 @@
 dash
-plotly
+plotly[express]
 gunicorn
+numpy
+pandas
