@@ -629,7 +629,7 @@ app.layout = html.Div([
 
     # ── FOOTER ─────────────────────────────────────────────────────────────
     html.Div(
-        "CSC 126 – IJK1 Business Intelligence Final Project  ·  Caraga State University  ·  Dataset: Jan 2, 2024 – Nov 3, 2024  ·  148 records  ·  6 farms",
+        "IS 108 – IJK1 Business Intelligence Final Project  ·  Caraga State University  ·  Dataset: Jan 2, 2024 – Nov 3, 2024  ·  148 records  ·  6 farms",
         style={
             "textAlign":"center","padding":"14px 32px",
             "fontSize":"10px","color":TEXT_MID,
